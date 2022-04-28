@@ -6,9 +6,7 @@ import guru.springframework.repositories.reactive.UnitOfMeasureReactiveRepositor
 import org.springframework.stereotype.Service;
 import reactor.core.publisher.Flux;
 
-/**
- * Created by jt on 6/28/17.
- */
+
 @Service
 public class UnitOfMeasureServiceImpl implements UnitOfMeasureService {
 
